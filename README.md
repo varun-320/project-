@@ -29,7 +29,7 @@ To get started with the workshop, follow these steps:
     - Configure the git user name and email using the following commands:
     ```bash
     git config --global user.name "Your Name"
-    git config --global user.email "adithy@email.com"
+    git config --global user.email "varunshetty@gmail.com"
     ```
 
 2. Navigate to the project directory:
